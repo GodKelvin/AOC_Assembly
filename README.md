@@ -1,6 +1,9 @@
 # Resumo
 Atividade avaliativa realizada durante a disciplina de Arquitetura e Organização de Computadores (2017/2) do curso Bacharelado em Sistemas de Informação (BSI) do IFES- Campus Serra. 
 
+# Docente da disciplina
+Flávio Giraldeli Bianca
+
 # Assunto
 Programação em Assembly (Comparando e criando programas escritos em C e em Assembly). 
 
